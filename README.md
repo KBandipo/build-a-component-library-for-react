@@ -13,10 +13,7 @@ Parent folder
 
 cd into the root of the library folder
 
-1. Navigate to the root of the library folder:
-    ```sh
-    cd path/into/library
-    ```
+1. cd into the root of the library folder
 2. Install dependencies:
     ```sh
     npm install
