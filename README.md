@@ -2,8 +2,11 @@
 
 On your computer, create a new parent folder or go to an existing folder that you would like to be the parent, for both this library and your React (or Next.js) app. Clone this library and add your
 React app inside the parent folder, so that the structure looks like this:
-
-Parent folder │── Folder for this library │── Your React or Next.js app's folder
+    ```sh
+    Parent folder 
+    │── Folder for this library 
+    │── Your React or Next.js app's folder
+    ```
 
 ### **A. Open a terminal (for the library)**
 
