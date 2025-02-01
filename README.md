@@ -11,8 +11,6 @@ Parent folder
 
 ### **A. Open a terminal (for the library)**
 
-cd into the root of the library folder
-
 1. cd into the root of the library folder
 2. Install dependencies:
     ```sh
